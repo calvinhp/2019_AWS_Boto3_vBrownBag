@@ -1,0 +1,114 @@
+{
+    "rules": [
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "1",
+            "object-locator": {
+                "schema-name": "databasefoo_prod",
+                "table-name": "%"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "2",
+            "rule-name": "2",
+            "object-locator": {
+                "schema-name": "databasefoo_bar",
+                "table-name": "%"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "3",
+            "rule-name": "3",
+            "object-locator": {
+                "schema-name": "client_databasefoo_78100",
+                "table-name": "%"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "4",
+            "rule-name": "4",
+            "object-locator": {
+                "schema-name": "client_databasefoo_33215",
+                "table-name": "%"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "5",
+            "rule-name": "5",
+            "object-locator": {
+                "schema-name": "databasefoo_8teeth",
+                "table-name": "%"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "6",
+            "rule-name": "6",
+            "object-locator": {
+                "schema-name": "client_databasefoo_33020_2626",
+                "table-name": "%"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "7",
+            "rule-name": "7",
+            "object-locator": {
+                "schema-name": "client_databasefoo_23060",
+                "table-name": "%"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "8",
+            "rule-name": "8",
+            "object-locator": {
+                "schema-name": "client_databasefoo_37901",
+                "table-name": "%"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "9",
+            "rule-name": "9",
+            "object-locator": {
+                "schema-name": "client_databasefoo_37010_8171",
+                "table-name": "%"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "10",
+            "rule-name": "10",
+            "object-locator": {
+                "schema-name": "totara_shalimar",
+                "table-name": "%"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "11",
+            "rule-name": "11",
+            "object-locator": {
+                "schema-name": "client_databasefoo_19125_3906",
+                "table-name": "%"
+            },
+            "rule-action": "include"
+        }
+    ]
+}
